@@ -1,0 +1,15 @@
+{
+  "name": "pisz-po-ludzku",
+  "description": "Skill dla Claude pilnujący poprawnej, naturalnej polszczyzny bez manier AI",
+  "owner": {
+    "name": "Grzegorz Wysocki / emedia",
+    "url": "https://emedia.pl"
+  },
+  "plugins": [
+    {
+      "name": "pisz-po-ludzku",
+      "source": "./",
+      "description": "Poprawna, naturalna polszczyzna bez manier AI: frazy, struktury, rejestr grzecznościowy, odmiana, typografia"
+    }
+  ]
+}

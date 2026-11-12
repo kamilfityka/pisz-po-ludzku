@@ -33,6 +33,15 @@ Reguły pochodzą z dwóch źródeł:
 
 ## Instalacja (Claude Code)
 
+Jako plugin z marketplace:
+
+```
+/plugin marketplace add kamilfityka/pisz-po-ludzku
+/plugin install pisz-po-ludzku@pisz-po-ludzku
+```
+
+Albo jako zwykły skill:
+
 ```bash
 git clone https://github.com/wysocki-lu/pisz-po-ludzku ~/.claude/skills/pisz-po-ludzku
 ```

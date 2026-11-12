@@ -1,0 +1,13 @@
+{
+  "name": "pisz-po-ludzku",
+  "version": "1.1.0",
+  "description": "Poprawna, naturalna polszczyzna bez manier AI: frazy, struktury, rejestr grzecznościowy, odmiana, typografia",
+  "author": {
+    "name": "Grzegorz Wysocki / emedia",
+    "url": "https://emedia.pl"
+  },
+  "repository": "https://github.com/kamilfityka/pisz-po-ludzku",
+  "license": "MIT",
+  "keywords": ["polish", "polski", "polszczyzna", "writing", "anti-slop"],
+  "skills": ["./"]
+}
